@@ -1,0 +1,161 @@
+@font-face {
+  font-family: "Andi Sitohang";
+  src: url("andisitohang-font.woff") format("woff"),
+    url("andisitohang-font.woff2") format("woff2"),
+    url("andisitohang-font.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 300;
+}
+
+.asicon,
+.letter-sign {
+  font-family: "Andi Sitohang";
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-rendering: auto;
+  font-weight: 300;
+}
+
+.as-award::before {
+    content: "\F559";
+}
+
+.as-ballots-check::before {
+    content: "\F733";
+}
+
+.as-bars-staggered::before {
+    content: "\F550";
+}
+
+.as-book-open::before {
+    content: "\E0C0";
+}
+
+.as-document::before {
+    content: "\F016";
+}
+
+.as-briefcase::before {
+    content: "\E0C8";
+}
+
+.as-calendar::before {
+    content: "\F073";
+}
+
+.as-cart-dollar-up::before {
+    content: "\E5D9";
+}
+
+.as-check-double::before {
+    content: "\F560";
+}
+
+.as-chess-king::before {
+    content: "\265A";
+}
+
+.as-chevron-right::before {
+    content: "\232A";
+}
+
+.as-comment::before {
+    content: "\E1E1";
+}
+
+.as-comments::before {
+    content: "\F4B6";
+}
+
+.as-envelope::before {
+    content: "\2709";
+}
+
+.as-envelope-open::before {
+    content: "\F2B6";
+}
+
+.as-graduation-cap::before {
+    content: "\F19D";
+}
+
+.as-hand-shake::before {
+    content: "\F2B5";
+}
+
+.as-home::before {
+    content: "\E3AF";
+}
+
+.as-lightbulb::before {
+    content: "\E1CA";
+}
+
+.as-maps-dot::before {
+    content: "\F60E";
+}
+
+.as-newspaper::before {
+    content: "\F1EA";
+}
+
+.as-service::before {
+    content: "\E5E9";
+}
+
+.as-share-alt::before {
+    content: "\F1E0";
+}
+
+.as-star::before {
+    content: "\2B50";
+}
+
+.as-star-alt::before {
+    content: "\E136";
+}
+
+.as-store::before {
+    content: "\F54E";
+}
+
+.as-tags::before {
+    content: "\F02C";
+}
+
+.as-user::before {
+    content: "\F406";
+}
+
+
+/* BRAND */
+.as-blogger::before {
+    content: "\F37C";
+}
+
+.as-facebook::before {
+    content: "\F39E";
+}
+
+.as-linkedin::before {
+    content: "\F0E1";
+}
+
+.as-medapps::before {
+    content: "\F3C6";
+}
+
+.as-whatsapp::before {
+    content: "\F232";
+}
+
+.as-x-twitter::before {
+    content: "\E61B";
+}
+
+
